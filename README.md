@@ -1,4 +1,4 @@
-# PatikaDev_SQL_-dev1
+# PatikaDev_SQL_Odev1
 Patika.Dev (https://academy.patika.dev/tr) tarafından verilen SQL dersinin 1. Ödevi
 ## Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
